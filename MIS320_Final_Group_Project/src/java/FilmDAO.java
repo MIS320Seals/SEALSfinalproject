@@ -56,7 +56,7 @@ public class FilmDAO {
     }
 
 //    delete product / remove from database 
-    public void deleteProduct(int product_id) {
+    public void deleteFilm(int film_id) {
         try {
             PreparedStatement preparedStatement = 
                     connection.prepareStatement( "delete from mydatabase.product where product_id=?");
