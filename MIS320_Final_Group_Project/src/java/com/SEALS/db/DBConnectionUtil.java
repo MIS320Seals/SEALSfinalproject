@@ -1,3 +1,5 @@
+package com.SEALS.db;
+
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
