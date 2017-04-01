@@ -9,11 +9,16 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Login</title>
+        <link rel="stylesheet" type="text/css" href="CSS/loginCSS.css">
     </head>
     <body>
-        <h1>Hello World!</h1>
         
-        <h1>AUSTIN SAYS HELLO TO THIS WORLD</h1>
+
+        
+        
+        <form action = "" name="loginForm">
+            <a href="custActionPage.jsp">Home</a>
+        </form>
     </body>
 </html>
