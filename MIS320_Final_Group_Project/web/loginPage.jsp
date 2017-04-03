@@ -32,7 +32,7 @@
                         <td><input type="submit" value="Enter" name="login" /></td>
                     </tr>
                     <tr>
-                        <td><a href="adminRegisterPage.jsp">New Admin </a></td>
+                        <td><a href="adminValidationPage.jsp">New Admin </a></td>
                         <td><a href="custRegisterPage.jsp">New User</a></td>
                     </tr>
                 </tbody>
