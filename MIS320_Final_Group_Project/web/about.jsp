@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>About</title>
-        <link rel="stylesheet" type="text/css" href="CSS/loginCSS.css">
+        <link rel="stylesheet" type="text/css" href="CSS/CSS.css">
     </head>
     <body>
         <%-- NAV BAR --%>
