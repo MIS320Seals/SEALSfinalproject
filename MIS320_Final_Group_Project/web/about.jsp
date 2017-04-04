@@ -28,7 +28,7 @@
         
         <div class ="peeps" >
 
-            <h1>Crimson Movie Team</h1>
+            <h1 style = "text-align: center">Crimson Movie Team</h1>
             <table  border="0" cellpadding="3">
                 <tr>
                     <td><img src="rex/sidney.jpg" alt=""/></td>
