@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author ering
  */
 @WebServlet(urlPatterns = {"/MovieController"})
-public class MovieController extends HttpServlet {
+public class FilmController extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
