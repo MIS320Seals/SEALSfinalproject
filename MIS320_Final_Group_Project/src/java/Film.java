@@ -8,6 +8,6 @@
  *
  * @author ering
  */
-public class MovieDAO {
+public class Film {
     
 }
