@@ -22,9 +22,9 @@ public class FilmDAO {
 
     private Connection connection;
 
-    public FilmDao() {
-        connection = DbConnectionUtil.getConnection();
-    }
+//    public FilmDao() {
+//        connection = DbConnectionUtil.getConnection();
+//    }
     
 //    insert into statement / communication with database
     public void addFilm(Film film) {
