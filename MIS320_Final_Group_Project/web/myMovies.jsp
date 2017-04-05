@@ -6,7 +6,7 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html xmlns:h="http://xmlns.jcp.org/jsf/html" xmlns:f="http://xmlns.jcp.org/jsf/core">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
@@ -23,5 +23,17 @@
                 <li><a href="loginPage.jsp">Log-out</a></li>
             </ul>
         </div>
+        
+        
+        
+        <%-- Table --%>
+        
+    <f:view>
+        <h:form>
+            <h:dataTable value="" var="item">
+            </h:dataTable>
+        </h:form>
+    </f:view>
+
     </body>
 </html>
